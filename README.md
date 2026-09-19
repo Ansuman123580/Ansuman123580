@@ -1,44 +1,42 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
-# 👋 Hey, I'm Ansuman Maharana
-
-### Full-Stack Developer • React Developer • Freelance Web Developer
-
-I build **modern, high-performance and visually premium web applications**  
-with a strong focus on **UI/UX, animations and real-world functionality.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ansuman+Maharana+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+Developer;I+build+premium+web+experiences.;Turning+ideas+into+real+products+%F0%9F%9A%80" />
 
 <br/>
 
 <a href="https://github.com/Ansuman123580">
-  <img src="https://img.shields.io/github/followers/Ansuman123580?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-Ansuman123580-161b22?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/Ansuman123580?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-15+-blue?style=for-the-badge" />
-</a>
+
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Available%20for%20Freelance-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Available_for_Freelance-238636?style=for-the-badge&logo=handshake&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ansuman123580&label=Profile%20Views&color=58A6FF&style=flat-square" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-```js
+I'm **Ansuman**, a Full-Stack Developer focused on building **modern, responsive and premium digital experiences**.
+
+I enjoy combining clean engineering with strong visual design — from smooth GSAP animations and interactive interfaces to complete backend systems and databases.
+
+```javascript
 const ansuman = {
+    name: "Ansuman Maharana",
     role: "Full-Stack Developer",
-    experience: "4+ years in Web Development",
 
     frontend: [
         "HTML",
         "CSS",
         "JavaScript",
         "React",
-        "Tailwind CSS",
-        "GSAP"
+        "Tailwind CSS"
     ],
 
     backend: [
@@ -46,6 +44,12 @@ const ansuman = {
         "Express.js",
         "MongoDB",
         "REST APIs"
+    ],
+
+    animation: [
+        "GSAP",
+        "ScrollTrigger",
+        "Lenis"
     ],
 
     tools: [
@@ -57,11 +61,12 @@ const ansuman = {
         "Netlify"
     ],
 
-    currentlyBuilding: [
+    focus: [
         "Premium Websites",
-        "E-commerce Platforms",
+        "E-commerce",
         "Full-Stack Applications",
-        "AI-powered Projects"
+        "Interactive UI",
+        "AI-powered Products"
     ],
 
     availableFor: "Freelance Projects & Collaborations"
